@@ -34,10 +34,7 @@ This project, "AI-Powered Collections Strategy," is a predictive modeling soluti
 * Python (pandas, scikit-learn, etc.)
 * PowerPoint
 * Microsoft Word
-* Git & GitHub
 
----
 
-## Contact
 
-[Your Name] - [Your Email Address] - [Link to your LinkedIn Profile]
+
